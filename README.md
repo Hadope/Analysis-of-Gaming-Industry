@@ -1,2 +1,2 @@
 # Analysis-of-Gaming-Industry
-#Magazine developed using data analysis and data visualization.
+#Esports Magazine developed using data analysis and data visualization.
